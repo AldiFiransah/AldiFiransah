@@ -5,4 +5,15 @@
   <img src="https://skillicons.dev/icons?i=figma,js,java,html,arch,linux" />
 </p>
 
-# hamsterlarp
+### Find me on
+<p align="left">
+  <a href="https://www.youtube.com/@Orang_hitam1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@hamster_c1huy" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-itz__alking-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
