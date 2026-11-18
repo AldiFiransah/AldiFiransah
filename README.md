@@ -18,18 +18,8 @@
   </a>
 </p>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Hamster_Larp</title>
-  <style>
-    body { margin: 0; background: #0d1117; display: flex; justify-content: center; align-items: center; height: 100vh; }
-    video { max-width: 100%; max-height: 100%; border-radius: 10px; }
-  </style>
-</head>
-<body>
-  <video src="https://github.com/user-attachments/assets/2b7cea91-aca8-4379-8ca6-1199337cf549" autoplay loop muted playsinline></video>
-</body>
-</html>
+
+https://github.com/user-attachments/assets/7facdcad-10e3-4326-9570-ae360dfe683b
+
+
 
